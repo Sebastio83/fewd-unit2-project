@@ -1,0 +1,25 @@
+/* Global Layout Set-up */
+* { 
+  box-sizing: border-box;
+}
+  
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  color: #222;
+  background: #f7f5f0;
+}
+
+/* Link Styles */
+
+a {
+  text-decoration: none;
+  color: black;
+  list-style-type: none;
+}
+
+ul {
+  list-style-type: none;
+}
